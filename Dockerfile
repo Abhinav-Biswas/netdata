@@ -1,8 +1,8 @@
-# netdata dockerfile by MO
+# netdata dockerfile
 #
-# VERSION 16.10.0
+
 FROM ubuntu:16.04 
-MAINTAINER MO
+MAINTAINER Abhinav
 
 # Setup apt
 ENV DEBIAN_FRONTEND noninteractive
